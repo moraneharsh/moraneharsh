@@ -1,4 +1,5 @@
-### Hi there, I'm Harsh 👋
+### Hi there, I'm Harsh <img src="https://user-images.githubusercontent.com/61085254/120146254-6c70ff80-c202-11eb-802a-b811b504735b.gif" alt=" " width="30px" height="30px">
+
 
 ## I'm a student, upcoming developer!
 - 🔭 I’m currently working on developing my technical skills
@@ -9,6 +10,6 @@
 - ⚡ Fun fact: I love to draw and play indoor sports
 
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moraneharsh)](https://github.com/anuraghazra/github-readme-stats)
+[![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=moraneharsh)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moraneharsh)](https://github.com/anuraghazra/github-readme-stats)
