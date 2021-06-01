@@ -10,6 +10,8 @@
 - ⚡ Fun fact: I love to draw and play indoor sports
 
 ---
-[![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=moraneharsh)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=moraneharsh)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moraneharsh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moraneharsh)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
