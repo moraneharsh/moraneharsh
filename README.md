@@ -1,5 +1,10 @@
-### Hi there, I'm Harsh <img src="https://user-images.githubusercontent.com/61085254/120146254-6c70ff80-c202-11eb-802a-b811b504735b.gif" alt=" " width="30px" height="30px">
+<h1 align="center">Harsh Kumar Morane</h1>
 
+<p align="center">
+Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
+</p>
+
+<hr />
 
 ## I'm a student, upcoming developer!
 - 🔭 I’m currently working on developing my technical skills
@@ -9,9 +14,12 @@
 - 💬 Ask me about anything!!🤖
 - ⚡ Fun fact: I love to draw and play indoor sports
 
----
 <img 
    src="https://github-readme-stats.vercel.app/api?username=moraneharsh&show_icons=true&theme=tokyonight" 
 />
 
+<h2 align="center">Social Media</h2>
+<p align="center">
+<a href="https://linkedin.com/in/harshmorane" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Morane-purple?logo=linkedin&logoColor=blue&color=blue" /></a>
+</p>
 
