@@ -16,9 +16,14 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
    <li> ⚡ Fun fact: I love to draw and play indoor sports </li>
 </ul>
 
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=moraneharsh&show_icons=true&theme=tokyonight" 
+<p align="center">
+<img width="48%"
+   src="https://github-readme-stats.vercel.app/api?username=moraneharsh&show_icons=true&theme=tokyonight&hide_border=true" 
 />
+<img width="48%" 
+   src="https://github-readme-streak-stats.herokuapp.com/?user=moraneharsh&show_icons=true&theme=tokyonight&hide_border=true" 
+/>
+</p>
 
 <h2 align="center">Tools And Technologies</h2>
 <p align="center"> 
