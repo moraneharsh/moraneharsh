@@ -6,13 +6,15 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
 
 <hr />
 
-## I'm a student, upcoming developer!
-- 🔭 I’m currently working on developing my technical skills
-- 🌱 I’m currently learning everything🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals: Contribute more to Open Source projects
-- 💬 Ask me about anything!!🤖
-- ⚡ Fun fact: I love to draw and play indoor sports
+<h2> I'm a student, upcoming developer! </h2>
+<ul>
+   <li> 🔭 I’m currently working on developing my technical skills </li>
+   <li> 🌱 I’m currently learning everything🤣 </li>
+   <li> 👯 I’m looking to collaborate with other content creators </li>
+   <li> 🥅 Goals: Contribute more to Open Source projects </li>
+   <li> 💬 Ask me about anything!!🤖 </li>
+   <li> ⚡ Fun fact: I love to draw and play indoor sports </li>
+</ul>
 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=moraneharsh&show_icons=true&theme=tokyonight" 
