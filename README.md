@@ -40,7 +40,8 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
 
 <h2 align="center">Connect With Me Here</h2>
 <p align="center">
-<a href="https://linkedin.com/in/harshmorane" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Morane-purple?logo=linkedin&logoColor=blue&color=blue" /></a>
-<a href="https://twitter.com/HarshMorane" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-Harsh%20Morane-purple?logo=Twitter&logoColor=blue&color=blue" /></a>    
+<a href="https://linkedin.com/in/harshmorane" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Kumar%20Morane-purple?logo=linkedin&logoColor=blue&color=blue" /></a>
+<a href="https://twitter.com/HarshMorane" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-HarshMorane-purple?logo=Twitter&logoColor=blue&color=blue" /></a>
+<a href=" https://www.instagram.com/harshmorane/?hl=en" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-harshmorane-purple?logo=Instagram&logoColor=purple&color=purple" /></a>
 </p>
 
