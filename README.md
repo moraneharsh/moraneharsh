@@ -17,10 +17,10 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
 </ul>
 
 <p align="center">
-<img width="48%"
+<img height="30%" width="48%"
    src="https://github-readme-stats.vercel.app/api?username=moraneharsh&show_icons=true&theme=tokyonight&hide_border=true" 
 />
-<img width="48%" 
+<img height="30%" width="48%"
    src="https://github-readme-streak-stats.herokuapp.com/?user=moraneharsh&show_icons=true&theme=tokyonight&hide_border=true" 
 />
 </p>
@@ -36,7 +36,6 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
    <img src="https://img.icons8.com/color/2x/adobe-xd.png" alt="Adobe Xd" width="40" height="40">
    <img src="https://img.icons8.com/color/2x/figma.png" alt="Adobe Xd" width="40" height="40">
    <img src="https://img.icons8.com/color/2x/ms-excel.png" alt="Excel" width="40" height="40">
-<!--    <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  -->
 </p>
 
 <h2 align="center">Connect With Me Here</h2>
