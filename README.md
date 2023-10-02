@@ -20,6 +20,9 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
 <img height="30%" width="48%"
    src="https://github-readme-stats.vercel.app/api?username=moraneharsh&show_icons=true&theme=tokyonight&hide_border=true" 
 />
+</p>
+
+<p align="center">
 <img height="30%" width="48%"
    src="https://github-readme-streak-stats.herokuapp.com/?user=moraneharsh&show_icons=true&theme=tokyonight&hide_border=true" 
 />
